@@ -708,7 +708,6 @@ MonoBehaviour:
   loadingText: {fileID: 760135542}
   installAgainButton: {fileID: 493933867}
   sessionHandler: {fileID: 2081750304}
-  xrOrigin: {fileID: 0}
 --- !u!4 &639121428
 Transform:
   m_ObjectHideFlags: 0
@@ -1280,7 +1279,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e1760703bbd54c04488a8d10600262ab, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_PlanePrefab: {fileID: 7506586257559585947, guid: ddbda8cd42a001b449cd62825c791023,
+  m_PlanePrefab: {fileID: 2512631934119969669, guid: 11a2076206e34624781bc511a4cefb2d,
     type: 3}
   m_DetectionMode: 1
 --- !u!114 &1659859602
